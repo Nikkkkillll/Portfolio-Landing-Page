@@ -4,7 +4,6 @@ Portfolio Service Website
 
 https://portfolio-landing-page-ruby.vercel.app/
 
-<<<<<<< HEAD
 ```bash
 npm run dev
 # or
@@ -13,9 +12,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
-=======
 Project Description
->>>>>>> ec4b6d3a788ba47616d600aa545ecebc6da94d9d
 
     This is a responsive Portfolio Service Website built using Next.js and Tailwind CSS to showcase developer skills, services, and contact information in a            professional layout.
     The website includes sections such as Hero, Services, Testimonials, Contact Form, and Footer.
